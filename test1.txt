@@ -1,3 +1,5 @@
 This is first file for gitrini course. 
 
 Troubleshooting for GitHub permission.
+
+Deleting and creating local repo. 
